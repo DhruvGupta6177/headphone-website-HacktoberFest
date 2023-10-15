@@ -16,7 +16,7 @@ Builds With : ``` HTML ``` ``` CSS```
 
 This repository is open to all members of Github communtiy. Any member can contribute to this project.
 
-➡ https://github.com/Ayush1390/design1.git
+➡ https://github.com/Ayush1390/headphone-website-HacktoberFest.git
 
 
 ## What is HacktoberFest?

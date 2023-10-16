@@ -32,7 +32,7 @@ https://hacktoberfest.digitalocean.com/
 - Clone your fork down to your local machine
   
 ```
-git clone https://github.com/your_username/design1.git
+git clone https://github.com/Ayush1390/headphone-website-HacktoberFest.git
 ```
 
 - Create a branch
